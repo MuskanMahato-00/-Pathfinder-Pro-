@@ -1,3 +1,6 @@
+# Project Link
+https://mgx-459pqk1t4xr.mgx.world 
+
 # -Pathfinder-Pro-
 🎯 Pathfinder Pro - AI Career Guidance Platform | Smart career discovery for students  Pathfinder Pro is an intelligent career guidance platform that uses AI to help students discover their ideal career path through personalized assessments, skill development, and educational recommendations.
 
