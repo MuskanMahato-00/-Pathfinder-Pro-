@@ -27,7 +27,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 ## 👨‍💻 Developer
 **Punith H**  
-- GitHub: [@punithhcreator](https://github.com/punithhcreator)
+- GitHub: (https://github.com/MuskanMahato-00/-Pathfinder-Pro-/commits?author=MuskanMahato-00)
 - Project: [Pathfinder Pro Career Guidance](https://github.com/punithhcreator/Pathfinder-Pro-AI-Career-Guidance)
 
 ## 🙏 Acknowledgments
