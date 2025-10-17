@@ -27,7 +27,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 ## 👨‍💻 Developer
 **Muskan Mahato**  
-- GitHub: (https://github.com/MuskanMahato-00/-Pathfinder-Pro-/commits?author=MuskanMahato-00)
+- GitHub: [Muskan Mahato](https://github.com/MuskanMahato-00/-Pathfinder-Pro-/commits?author=MuskanMahato-00)
 - Project: [Pathfinder Pro ](https://mgx-459pqk1t4xr.mgx.world/)
 
 ## 🙏 Acknowledgments
