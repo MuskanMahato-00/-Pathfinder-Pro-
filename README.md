@@ -2,7 +2,7 @@
 🎯 Pathfinder Pro - AI Career Guidance Platform | Smart career discovery for students  Pathfinder Pro is an intelligent career guidance platform that uses AI to help students discover their ideal career path through personalized assessments, skill development, and educational recommendations.
 
 ## 🚀 Getting Started
-1. Visit [Pathfinder Pro Live Demo] (https://mgx-459pqk1t4xr.mgx.world/)
+1. Visit [Pathfinder Pro Live Demo](https://mgx-459pqk1t4xr.mgx.world/)
 2. Create your student profile
 3. Complete the AI assessment
 4. Receive personalized career paths
@@ -26,7 +26,7 @@ We welcome contributions to enhance Pathfinder Pro:
 This project is licensed under the MIT License - see [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Developer
-**Punith H**  
+**Muskan Mahato**  
 - GitHub: (https://github.com/MuskanMahato-00/-Pathfinder-Pro-/commits?author=MuskanMahato-00)
 - Project: [Pathfinder Pro Career Guidance](https://github.com/punithhcreator/Pathfinder-Pro-AI-Career-Guidance)
 
