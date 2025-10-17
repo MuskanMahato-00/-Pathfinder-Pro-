@@ -2,7 +2,7 @@
 🎯 Pathfinder Pro - AI Career Guidance Platform | Smart career discovery for students  Pathfinder Pro is an intelligent career guidance platform that uses AI to help students discover their ideal career path through personalized assessments, skill development, and educational recommendations.
 
 ## 🚀 Getting Started
-1. Visit [Pathfinder Pro Live Demo](https://careerpath.mgx.world/)
+1. Visit [Pathfinder Pro Live Demo] (https://mgx-459pqk1t4xr.mgx.world/)
 2. Create your student profile
 3. Complete the AI assessment
 4. Receive personalized career paths
