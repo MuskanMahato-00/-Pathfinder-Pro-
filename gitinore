@@ -1,0 +1,21 @@
+# Meta MGX specific files
+*.mgxbackup
+*.mgxtemp
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+*.log
+logs/
+
+# Dependencies
+node_modules/
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
